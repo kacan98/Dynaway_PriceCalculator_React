@@ -1,0 +1,73 @@
+.slidecontainer {
+  position: relative;
+  margin: 15px 0 15px 0;
+}
+
+label.sliderLabel {
+  margin: 15px 0 0 0;
+}
+
+input[type="range"] {
+  width: 60vw;
+  display: block;
+  margin: 7px 0 0 0;
+}
+
+input[type="range"]::before,
+input[type="range"]::after {
+  position: absolute;
+  display: inline-block;
+}
+
+input[type="range"]::before {
+  content: attr(min);
+  left: 0;
+  transform: translateY(calc(100%));
+}
+
+input[type="range"]::after {
+  content: attr(max);
+  right: 0;
+  transform: translateY(calc(100%));
+}
+
+/*Chrome*/
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  input[type="range"] {
+    overflow: hidden;
+    width: 60vw;
+    -webkit-appearance: none;
+    background-color: rgba(0, 98, 147, 0.4);
+    border-radius: 50px;
+  }
+
+  input[type="range"]::-webkit-slider-runnable-track {
+    height: 10px;
+    -webkit-appearance: none;
+    color: #13bba4;
+    margin-top: -1px;
+  }
+
+  input[type="range"]::-webkit-slider-thumb {
+    width: 10px;
+    -webkit-appearance: none;
+    height: 10px;
+    cursor: ew-resize;
+    background: white;
+    box-shadow: -800px 0 0 800px rgba(0, 98, 147, 1);
+  }
+}
+/** FF*/
+input[type="range"]::-moz-range-progress {
+  background-color: #006293;
+}
+input[type="range"]::-moz-range-track {
+  background-color: rgba(0, 98, 147, 0.4);
+}
+/* IE*/
+input[type="range"]::-ms-fill-lower {
+  background-color: #006293;
+}
+input[type="range"]::-ms-fill-upper {
+  background-color: rgba(0, 98, 147, 0.4);
+}

@@ -1,0 +1,23 @@
+.ItemPriceSummary__Wrapper {
+  display: flex;
+  width: 50vw;
+  justify-content: space-between;
+  position: relative;
+}
+.ItemPriceSummary__Title {
+  background-color: white;
+  padding-right: 0.2rem;
+}
+.ItemPriceSummary__Value {
+  background-color: white;
+  padding-left: 0.1rem;
+}
+
+.dots {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  max-width: 100%;
+  overflow: hidden;
+}

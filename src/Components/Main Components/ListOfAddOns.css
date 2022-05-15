@@ -1,0 +1,15 @@
+.listOfAddons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  max-width: 80vw;
+  margin: auto;
+}
+
+.ListOfAddonsComposition {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

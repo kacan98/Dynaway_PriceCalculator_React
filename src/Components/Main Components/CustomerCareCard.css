@@ -1,0 +1,67 @@
+.OneCCCard {
+  padding: 10px;
+  border: 1.5px solid rgba(0, 98, 147, 0.6);
+  border-radius: 0.9rem;
+  text-align: center;
+  max-width: 21vw;
+  min-width: 240px;
+  min-height: 500px;
+  cursor: pointer;
+  transition: 0.5s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  box-sizing: border-box;
+}
+
+.CC__title {
+  font-size: 1.1rem;
+  font-weight: 500;
+  padding: 0 0 10px 0;
+}
+
+.CC__descriptionBeforeFeatures {
+  padding: 0px 0px 10px 0px;
+}
+
+.CC__descriptionAfterFeatures {
+  padding: 10px 0px 10px 0px;
+}
+
+input[type="radio"]:after {
+  width: 20px;
+  height: 20px;
+  border-radius: 30px;
+  position: relative;
+  background-color: #d1d3d1;
+  content: "";
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid white;
+
+  top: -5px;
+  left: -5px;
+}
+
+input[type="radio"]:checked:after {
+  width: 20px;
+  height: 20px;
+  border-radius: 30px;
+  position: relative;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 98, 147, 1);
+  content: "";
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid white;
+
+  top: -5px;
+  left: -5px;
+}
+
+.CCCprice {
+  font-weight: 400;
+  font-size: 0.7rem;
+}

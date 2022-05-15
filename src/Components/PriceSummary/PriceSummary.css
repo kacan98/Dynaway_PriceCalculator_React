@@ -1,0 +1,12 @@
+.PriceSummary__Wrapper {
+  margin: 1rem;
+}
+
+.breakBetweenLines {
+  background: #006293;
+  height: 10px;
+  content: "";
+  border-radius: 50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
