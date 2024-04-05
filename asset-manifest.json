@@ -1,22 +1,17 @@
 {
   "files": {
-    "main.css": "/Dynaway_priceCalculator_React/static/css/main.61edaebc.chunk.css",
-    "main.js": "/Dynaway_priceCalculator_React/static/js/main.aa475b8f.chunk.js",
-    "main.js.map": "/Dynaway_priceCalculator_React/static/js/main.aa475b8f.chunk.js.map",
-    "runtime-main.js": "/Dynaway_priceCalculator_React/static/js/runtime-main.372f7054.js",
-    "runtime-main.js.map": "/Dynaway_priceCalculator_React/static/js/runtime-main.372f7054.js.map",
-    "static/js/2.fdcabd13.chunk.js": "/Dynaway_priceCalculator_React/static/js/2.fdcabd13.chunk.js",
-    "static/js/2.fdcabd13.chunk.js.map": "/Dynaway_priceCalculator_React/static/js/2.fdcabd13.chunk.js.map",
-    "static/js/3.aa524f6c.chunk.js": "/Dynaway_priceCalculator_React/static/js/3.aa524f6c.chunk.js",
-    "static/js/3.aa524f6c.chunk.js.map": "/Dynaway_priceCalculator_React/static/js/3.aa524f6c.chunk.js.map",
+    "main.css": "/Dynaway_priceCalculator_React/static/css/main.6d7edb73.chunk.css",
+    "main.js": "/Dynaway_priceCalculator_React/static/js/main.ea79f8a1.chunk.js",
+    "main.js.map": "/Dynaway_priceCalculator_React/static/js/main.ea79f8a1.chunk.js.map",
+    "runtime~main.js": "/Dynaway_priceCalculator_React/static/js/runtime~main.32fb10a6.js",
+    "runtime~main.js.map": "/Dynaway_priceCalculator_React/static/js/runtime~main.32fb10a6.js.map",
+    "static/js/2.97fe32b2.chunk.js": "/Dynaway_priceCalculator_React/static/js/2.97fe32b2.chunk.js",
+    "static/js/2.97fe32b2.chunk.js.map": "/Dynaway_priceCalculator_React/static/js/2.97fe32b2.chunk.js.map",
+    "static/js/3.87dd62c3.chunk.js": "/Dynaway_priceCalculator_React/static/js/3.87dd62c3.chunk.js",
+    "static/js/3.87dd62c3.chunk.js.map": "/Dynaway_priceCalculator_React/static/js/3.87dd62c3.chunk.js.map",
     "index.html": "/Dynaway_priceCalculator_React/index.html",
-    "static/css/main.61edaebc.chunk.css.map": "/Dynaway_priceCalculator_React/static/css/main.61edaebc.chunk.css.map",
-    "static/js/2.fdcabd13.chunk.js.LICENSE.txt": "/Dynaway_priceCalculator_React/static/js/2.fdcabd13.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.372f7054.js",
-    "static/js/2.fdcabd13.chunk.js",
-    "static/css/main.61edaebc.chunk.css",
-    "static/js/main.aa475b8f.chunk.js"
-  ]
+    "precache-manifest.236b87ebcf2013d094e652b420809163.js": "/Dynaway_priceCalculator_React/precache-manifest.236b87ebcf2013d094e652b420809163.js",
+    "service-worker.js": "/Dynaway_priceCalculator_React/service-worker.js",
+    "static/css/main.6d7edb73.chunk.css.map": "/Dynaway_priceCalculator_React/static/css/main.6d7edb73.chunk.css.map"
+  }
 }
