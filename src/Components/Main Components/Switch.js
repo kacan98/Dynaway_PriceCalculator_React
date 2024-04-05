@@ -1,4 +1,6 @@
 import "./Switch.css";
+import React from "react";
+
 
 const Switch = (props) => {
   const switchHandler = () => {

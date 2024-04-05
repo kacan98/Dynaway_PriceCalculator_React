@@ -1,5 +1,6 @@
 import "./OneAddOn.css";
 import "./CustomerCareCard.css";
+import React from "react";
 
 const CustomerCareCard = (props) => {
   const listOfFeatures = props.CustomerCarePackage.listOfFeatures.map(

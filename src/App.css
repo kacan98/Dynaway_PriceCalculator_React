@@ -3,9 +3,9 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  max-width: 70vw;
   margin: auto;
   text-align: center;
+  max-width: 1300px;
 }
 
 .App__NotesUnderPriceSummary {

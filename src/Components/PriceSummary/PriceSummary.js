@@ -1,5 +1,7 @@
 import ItemPriceSummary from "./ItemPriceSummary";
 import "./PriceSummary.css";
+import React from "react";
+
 
 const PriceSummary = (props) => {
   let modulesPrice = 0;
@@ -98,7 +100,6 @@ const PriceSummary = (props) => {
   return (
     <ul className="PriceSummary__Wrapper">
       {ArraywithItemPriceSummaries}
-      <div>{console.log()}</div>
     </ul>
   );
 };

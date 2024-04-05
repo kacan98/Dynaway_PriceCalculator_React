@@ -1,9 +1,10 @@
 import "./Slider.css";
+import React from "react";
+
 
 const Slider = (props) => {
   const handleChange = (event) => {
     props.onSlide(event.target.value);
-    console.log(event.target.value);
   };
   return (
     <div>
