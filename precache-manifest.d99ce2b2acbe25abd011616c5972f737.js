@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f21cf7f19570e8dfd179851eba629ae",
+    "revision": "2d29e77007e00e150974db931a70970a",
     "url": "/react_price_calculator/index.html"
   },
   {
-    "revision": "b8e74e000504967aa3bc",
+    "revision": "922a37cd45f7645f680e",
     "url": "/react_price_calculator/static/css/main.6d7edb73.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_price_calculator/static/js/3.87dd62c3.chunk.js"
   },
   {
-    "revision": "b8e74e000504967aa3bc",
-    "url": "/react_price_calculator/static/js/main.940cfbb6.chunk.js"
+    "revision": "922a37cd45f7645f680e",
+    "url": "/react_price_calculator/static/js/main.024627f5.chunk.js"
   },
   {
     "revision": "fc6e1bbaaf9fd7f4f074",

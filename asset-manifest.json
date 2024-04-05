@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_price_calculator/static/css/main.6d7edb73.chunk.css",
-    "main.js": "/react_price_calculator/static/js/main.940cfbb6.chunk.js",
-    "main.js.map": "/react_price_calculator/static/js/main.940cfbb6.chunk.js.map",
+    "main.js": "/react_price_calculator/static/js/main.024627f5.chunk.js",
+    "main.js.map": "/react_price_calculator/static/js/main.024627f5.chunk.js.map",
     "runtime~main.js": "/react_price_calculator/static/js/runtime~main.aa6fbfdd.js",
     "runtime~main.js.map": "/react_price_calculator/static/js/runtime~main.aa6fbfdd.js.map",
     "static/js/2.97fe32b2.chunk.js": "/react_price_calculator/static/js/2.97fe32b2.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.87dd62c3.chunk.js": "/react_price_calculator/static/js/3.87dd62c3.chunk.js",
     "static/js/3.87dd62c3.chunk.js.map": "/react_price_calculator/static/js/3.87dd62c3.chunk.js.map",
     "index.html": "/react_price_calculator/index.html",
-    "precache-manifest.09e1c8227a0b9270717ccb2f8b0acfa2.js": "/react_price_calculator/precache-manifest.09e1c8227a0b9270717ccb2f8b0acfa2.js",
+    "precache-manifest.d99ce2b2acbe25abd011616c5972f737.js": "/react_price_calculator/precache-manifest.d99ce2b2acbe25abd011616c5972f737.js",
     "service-worker.js": "/react_price_calculator/service-worker.js",
     "static/css/main.6d7edb73.chunk.css.map": "/react_price_calculator/static/css/main.6d7edb73.chunk.css.map"
   }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react_price_calculator/precache-manifest.09e1c8227a0b9270717ccb2f8b0acfa2.js"
+  "/react_price_calculator/precache-manifest.d99ce2b2acbe25abd011616c5972f737.js"
 );
 
 self.addEventListener('message', (event) => {
