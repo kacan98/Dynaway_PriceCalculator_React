@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react_price_calculator_dynaway/static/css/main.6d7edb73.chunk.css",
-    "main.js": "/react_price_calculator_dynaway/static/js/main.ea79f8a1.chunk.js",
-    "main.js.map": "/react_price_calculator_dynaway/static/js/main.ea79f8a1.chunk.js.map",
-    "runtime~main.js": "/react_price_calculator_dynaway/static/js/runtime~main.84b90f93.js",
-    "runtime~main.js.map": "/react_price_calculator_dynaway/static/js/runtime~main.84b90f93.js.map",
-    "static/js/2.97fe32b2.chunk.js": "/react_price_calculator_dynaway/static/js/2.97fe32b2.chunk.js",
-    "static/js/2.97fe32b2.chunk.js.map": "/react_price_calculator_dynaway/static/js/2.97fe32b2.chunk.js.map",
-    "static/js/3.87dd62c3.chunk.js": "/react_price_calculator_dynaway/static/js/3.87dd62c3.chunk.js",
-    "static/js/3.87dd62c3.chunk.js.map": "/react_price_calculator_dynaway/static/js/3.87dd62c3.chunk.js.map",
-    "index.html": "/react_price_calculator_dynaway/index.html",
-    "precache-manifest.b0165cdb1c6d048dfda5ae61800f3896.js": "/react_price_calculator_dynaway/precache-manifest.b0165cdb1c6d048dfda5ae61800f3896.js",
-    "service-worker.js": "/react_price_calculator_dynaway/service-worker.js",
-    "static/css/main.6d7edb73.chunk.css.map": "/react_price_calculator_dynaway/static/css/main.6d7edb73.chunk.css.map"
+    "main.css": "/react_price_calculator/static/css/main.6d7edb73.chunk.css",
+    "main.js": "/react_price_calculator/static/js/main.940cfbb6.chunk.js",
+    "main.js.map": "/react_price_calculator/static/js/main.940cfbb6.chunk.js.map",
+    "runtime~main.js": "/react_price_calculator/static/js/runtime~main.aa6fbfdd.js",
+    "runtime~main.js.map": "/react_price_calculator/static/js/runtime~main.aa6fbfdd.js.map",
+    "static/js/2.97fe32b2.chunk.js": "/react_price_calculator/static/js/2.97fe32b2.chunk.js",
+    "static/js/2.97fe32b2.chunk.js.map": "/react_price_calculator/static/js/2.97fe32b2.chunk.js.map",
+    "static/js/3.87dd62c3.chunk.js": "/react_price_calculator/static/js/3.87dd62c3.chunk.js",
+    "static/js/3.87dd62c3.chunk.js.map": "/react_price_calculator/static/js/3.87dd62c3.chunk.js.map",
+    "index.html": "/react_price_calculator/index.html",
+    "precache-manifest.09e1c8227a0b9270717ccb2f8b0acfa2.js": "/react_price_calculator/precache-manifest.09e1c8227a0b9270717ccb2f8b0acfa2.js",
+    "service-worker.js": "/react_price_calculator/service-worker.js",
+    "static/css/main.6d7edb73.chunk.css.map": "/react_price_calculator/static/css/main.6d7edb73.chunk.css.map"
   }
 }
