@@ -6,7 +6,7 @@ const OneAddOn = (props) => {
   const showMoreHandler = () => {
     setshowMoreToggle((pevState) => !pevState);
   };
-  const tickHandler = (event) => {
+  const tickHandler = () => {
     props.onTick({
       ...props.individualAddonObject,
       ticked: !props.individualAddonObject.ticked,
@@ -45,7 +45,6 @@ const OneAddOn = (props) => {
           : props.individualAddonObject.priceEUR}{" "}
         / month
       </p>
-      <div>{console.log(showMoreToggle)}</div>
     </div>
   );
 };
