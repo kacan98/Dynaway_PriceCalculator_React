@@ -18,67 +18,67 @@ function App() {
 
   const [addOns, setAddOns] = useState([
     {
-      title: "Dynaway Mobile",
+      title: "Mobile",
       description:
-        "The Dynaway Mobile client offers increased efficiency and flexibility in your maintenance department. It allows your maintenance workers to report status and progress on work orders in real time, consume spare parts, and quickly and efficiently complete work orders on-site. Seamlessly integrated with Microsoft Asset Management.",
-      priceUSD: 1100,
-      priceEUR: 1000,
+        "The Mobile client offers increased efficiency and flexibility in your maintenance department. It allows your maintenance workers to report status and progress on work orders in real time, consume spare parts, and quickly and efficiently complete work orders on-site. Seamlessly integrated with Microsoft Asset Management.",
+      priceUSD: 3225 ,
+      priceEUR: 3000,
       ticked: true,
     },
     {
       title: "Service Portal",
       description:
-        "The Service Portal is a module available on Dynaway’s Mobile Client, and allows you to quickly and easily create requests when a worker detects an error of faulty setup of specific locations or assets. The requests are revised by the maintenance manager who can automatically create work orders.",
-      priceUSD: 400,
-      priceEUR: 350,
+        "The Service Portal is a module available on the Mobile Client, and allows you to quickly and easily create requests when a worker detects an error of faulty setup of specific locations or assets. The requests are revised by the maintenance manager who can automatically create work orders.",
+      priceUSD: 650 ,
+      priceEUR: 600,
       ticked: false,
     },
     {
       title: "Planning Board",
       description:
         "The Planning board is used for planning unscheduled work order lines on individual workers. Planners, supervisors, and managers can schedule and reschedule work order lines on the Mobile Client. Scheduling is updated in real time.",
-      priceUSD: 700,
-      priceEUR: 650,
+      priceUSD: 1250 ,
+      priceEUR: 1050,
       ticked: false,
     },
     {
-      title: "Dynaway Safe Work",
+      title: "Safe Work",
       description:
         "Make work conditions safe and ensure a safer working environment with LO/TO and Work Permits. With Safe Work, you can create and manage tagouts on work orders, assets, and functional locations. Create and manage work permits that are used on work orders.",
-      priceUSD: 700,
-      priceEUR: 650,
+      priceUSD: 1450 ,
+      priceEUR: 1350,
       ticked: false,
     },
     {
-      title: "Dynaway STO",
+      title: "STO",
       description:
         "Create and manage projects on work order pools used for Shutdown, Turnaround & Outage (STO). We have added functionality that makes it possible to set up a specific project for a work order pool. You can use a work order pool project to get an overview of total costs on your Shutdown, Turnaround & Outage (STO) projects.",
-      priceUSD: 300,
-      priceEUR: 250,
+      priceUSD: 650,
+      priceEUR: 600,
       ticked: false,
     },
     {
       title: "Advanced Asset Management",
       description:
         "Advanced Asset Management module creates additional functionality that is not available in Microsoft Asset Management. With the module, you can automatically create a related work order based on the input from a checklist, manage your tools, check inventory for items needed for Work Orders, and more.",
-      priceUSD: 600,
-      priceEUR: 550,
+      priceUSD: 1020,
+      priceEUR: 900,
       ticked: false,
     },
     {
-      title: "Dynaway Analytics",
+      title: "Analytics",
       description:
         "An essential tool for the Maintenance Manager: Customized dashboards to get a full overview of your maintenance operations and the most important metrics.",
-      priceUSD: 1100,
-      priceEUR: 1000,
+      priceUSD: 2200 ,
+      priceEUR: 2000,
       ticked: false,
     },
     {
       title: "Advanced Inventory for Mobile",
       description:
         "The module allows you to download objects for offline use on the Mobile Client as well as execute work orders and register spare parts when the Mobile Client is offline. ",
-      priceUSD: 250,
-      priceEUR: 200,
+      priceUSD: 450 ,
+      priceEUR: 400,
       ticked: false,
     },
   ]);
@@ -168,7 +168,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Microsoft Asset Management Add-on Modules</h2>
+      <h2>AM Add-on Modules</h2>
       <ListOfAddOns
         addOns={addOns}
         onTick={toggleTickAddOns}
@@ -177,7 +177,7 @@ function App() {
       />
       <h3>Customer Care Plan** (Required for all customers)</h3>
       <p>
-        Dynaway Customer Care Services for Dynaway EAM are available in three
+        Customer Care Services are available in three
         versions: Silver, Gold, and Platinum. Each version includes standardized
         services that meet typical business needs, depending on the size and
         complexity of your organization. The final solution can be further
@@ -202,6 +202,10 @@ function App() {
       <div className="App__NotesUnderPriceSummary">
         **This price may vary, depending on customers' needs. Please read more
         about out Standard Implementation price here
+      </div>
+      <div>
+        Note: the prices in this calculator are random and do not reflect the
+        actual prices of the modules.
       </div>
     </div>
   );
