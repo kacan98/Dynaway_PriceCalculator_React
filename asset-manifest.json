@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Dynaway_priceCalculator_React/static/css/main.6d7edb73.chunk.css",
-    "main.js": "/Dynaway_priceCalculator_React/static/js/main.ea79f8a1.chunk.js",
-    "main.js.map": "/Dynaway_priceCalculator_React/static/js/main.ea79f8a1.chunk.js.map",
-    "runtime~main.js": "/Dynaway_priceCalculator_React/static/js/runtime~main.32fb10a6.js",
-    "runtime~main.js.map": "/Dynaway_priceCalculator_React/static/js/runtime~main.32fb10a6.js.map",
-    "static/js/2.97fe32b2.chunk.js": "/Dynaway_priceCalculator_React/static/js/2.97fe32b2.chunk.js",
-    "static/js/2.97fe32b2.chunk.js.map": "/Dynaway_priceCalculator_React/static/js/2.97fe32b2.chunk.js.map",
-    "static/js/3.87dd62c3.chunk.js": "/Dynaway_priceCalculator_React/static/js/3.87dd62c3.chunk.js",
-    "static/js/3.87dd62c3.chunk.js.map": "/Dynaway_priceCalculator_React/static/js/3.87dd62c3.chunk.js.map",
-    "index.html": "/Dynaway_priceCalculator_React/index.html",
-    "precache-manifest.236b87ebcf2013d094e652b420809163.js": "/Dynaway_priceCalculator_React/precache-manifest.236b87ebcf2013d094e652b420809163.js",
-    "service-worker.js": "/Dynaway_priceCalculator_React/service-worker.js",
-    "static/css/main.6d7edb73.chunk.css.map": "/Dynaway_priceCalculator_React/static/css/main.6d7edb73.chunk.css.map"
+    "main.css": "/dynaway_price_calculator_react/static/css/main.6d7edb73.chunk.css",
+    "main.js": "/dynaway_price_calculator_react/static/js/main.ea79f8a1.chunk.js",
+    "main.js.map": "/dynaway_price_calculator_react/static/js/main.ea79f8a1.chunk.js.map",
+    "runtime~main.js": "/dynaway_price_calculator_react/static/js/runtime~main.0d241386.js",
+    "runtime~main.js.map": "/dynaway_price_calculator_react/static/js/runtime~main.0d241386.js.map",
+    "static/js/2.97fe32b2.chunk.js": "/dynaway_price_calculator_react/static/js/2.97fe32b2.chunk.js",
+    "static/js/2.97fe32b2.chunk.js.map": "/dynaway_price_calculator_react/static/js/2.97fe32b2.chunk.js.map",
+    "static/js/3.87dd62c3.chunk.js": "/dynaway_price_calculator_react/static/js/3.87dd62c3.chunk.js",
+    "static/js/3.87dd62c3.chunk.js.map": "/dynaway_price_calculator_react/static/js/3.87dd62c3.chunk.js.map",
+    "index.html": "/dynaway_price_calculator_react/index.html",
+    "precache-manifest.a55527337f987dc5dac9e28059b0e0a3.js": "/dynaway_price_calculator_react/precache-manifest.a55527337f987dc5dac9e28059b0e0a3.js",
+    "service-worker.js": "/dynaway_price_calculator_react/service-worker.js",
+    "static/css/main.6d7edb73.chunk.css.map": "/dynaway_price_calculator_react/static/css/main.6d7edb73.chunk.css.map"
   }
 }
